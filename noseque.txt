@@ -1,0 +1,11 @@
+1. Nombre
+2. Apellido1
+3. Apellido2
+4. Telefono
+5. Direccion
+6. Curso
+7. Mascota
+8. Nacimiento
+
+dani -> impar
+joel -> par
