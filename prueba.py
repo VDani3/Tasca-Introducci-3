@@ -7,3 +7,15 @@ curso = input("Inserta el curso: ")
 mascota = input("Digues una mascota: ")
 nacimiento = input("Inserta la fecha de nacimiento ((DD-MM-YYYY))")
 
+print("Nombre: ", nombre)
+
+print("Apellido 2: ",apellido2)
+
+print("Direccion: ",direccion)
+
+print("Mascota: ",mascota)
+
+
+
+
+
