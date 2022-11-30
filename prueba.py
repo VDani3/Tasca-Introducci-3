@@ -8,14 +8,12 @@ mascota = input("Digues una mascota: ")
 nacimiento = input("Inserta la fecha de nacimiento ((DD-MM-YYYY))")
 
 print("Nombre: ", nombre)
-
+print("El primer apellido es:", apellido1)
 print("Apellido 2: ",apellido2)
-
+print("El telefono es:", tlfn)
 print("Direccion: ",direccion)
-
+print("El curso es:", curso)
 print("Mascota: ",mascota)
-
-
-
-
+print("La fecha de nacimiento es:", nacimiento)
+print("FIN")
 
